@@ -4,7 +4,7 @@ docker-no-ip (FORK)
 This is a simple Docker container for running the [No-IP2](http://www.noip.com/) dynamic DNS update script. It will keep
 your domain.ddns.net DNS alias up-to-date as your home IP changes. 
 
-This docker image is available as a [docker container](https://hub.docker.com/repository/docker/uping/no-ip/general/).
+This docker image is available as a [docker container](https://hub.docker.com/r/uping/no-ip).
 
 I created this fork because the original version has a problem with loading environment variables. Original can be found [here](https://github.com/coppit/docker-no-ip) image. 
 

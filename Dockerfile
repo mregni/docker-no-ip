@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-MAINTAINER David Coppit <david@coppit.org>
+MAINTAINER Mikhaël Regni <mikhael@uping.be>
 
 ENV TERM=xterm-256color
 

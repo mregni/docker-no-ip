@@ -55,7 +55,7 @@ In both modes, two config files (`no-ip2.generated.conf` and `no-ip2.generated.c
 version: "3"
 services:
   noip:
-    image: coppit/no-ip
+    image: uping/no-ip
     container_name: noip
     restart: unless-stopped
     environment:
